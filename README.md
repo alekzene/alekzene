@@ -3,7 +3,7 @@
 </div>
 <div id="header" align="center">
   <h1>
-    Alexene
+    Hi, I'm Alexene.
     <br>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/alexene-faith-tomate-9b3180257/">
