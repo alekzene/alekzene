@@ -1,5 +1,5 @@
 <div id="icon" align="center">
-  <img src="https://pbs.twimg.com/media/FhjOmGVaUAAzzwh?format=jpg&name=small" width="100"/>
+  <img src="https://pbs.twimg.com/media/FhlDBigUYAAeBvB?format=png&name=small" width="100"/>
 </div>
 <div id="header" align="center">
   <h1>
