@@ -7,7 +7,7 @@
   <h3>
        
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/alexene-faith-tomate-9b3180257/">
+  <a href="https://www.linkedin.com/in/alexene-tomate/">
     <img src="https://img.shields.io/badge/LinkedIn-lightblue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   <a href="https://facebook.com/alekzene/">
     <img src="https://img.shields.io/badge/Facebook-lightblue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
