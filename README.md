@@ -22,20 +22,3 @@
 
 <div id="stats" align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=alekzene&theme=nord&exclude_days=Sun&background=FFFFFF">
-
-<br> 
-
-<br>  
-
-<br>  
-
-```C++
-const alekzene {
-  pronouns: ["she", "her"], 
-  languages: [root, python, java, kotlin, scheme, c++], 
-  frameworks: [spring boot],
-  libraries: [numpy, matplotlib, pandas]
-  miscellaneous: [jupyter notebook, git, bash, unix], 
-  interests: [mathematics, physics, robotics, astronomy], 
-  hobbies: ["drawing", "writing", "3d art", "reading"] }
-```
