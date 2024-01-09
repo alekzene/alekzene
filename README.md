@@ -22,3 +22,16 @@
 
 <div id="stats" align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=alekzene&theme=nord&exclude_days=Sun&background=FFFFFF">
+
+<div id="random" align="left">
+  
+### about me
+- sophomore computer science student at centro escolar university-makati
+- interested in data science, robotics, astronomy and research
+- hobbies include writing, reading, drawing, and studying math/physics
+- looking forward to open source contributions !
+
+### my tech stack
+- **languages**: python, root, scheme, java, kotlin, c++, html, css
+- **frameworks**: spring boot
+- **miscellaneous**: jupyter notebook, git, bash, unix
