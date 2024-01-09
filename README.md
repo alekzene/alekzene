@@ -16,8 +16,6 @@
    <img src="https://img.shields.io/badge/Twitter-lightblue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"&nbsp/>
 </div> 
 
-
-
 <br>  
 
 <br>  
@@ -41,10 +39,3 @@ const alekzene {
   interests: [mathematics, physics, robotics, astronomy], 
   hobbies: ["drawing", "writing", "3d art", "reading"] }
 ```
-
-<br>  
-
-<br>  
-
-
-
