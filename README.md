@@ -32,6 +32,6 @@
 - looking forward to open source contributions !
 
 ### my tech stack
-- **languages**: python, root, scheme, java, kotlin, c++, html, css
+- **languages**: python, root, scheme, java, kotlin, c++, sql, html, css
 - **frameworks**: spring boot
 - **miscellaneous**: jupyter notebook, git, bash, unix
