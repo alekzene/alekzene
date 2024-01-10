@@ -3,35 +3,13 @@
 </div>
 <div id="header" align="center">
   <h1>
-    hi, i'm alexene.
-  </h1>
-</div> 
+    Hi, I'm Alexene.
+  <h3>
        
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/alexene-tomate/">
+  <a href="https://www.linkedin.com/in/alexene-faith-tomate-9b3180257/">
     <img src="https://img.shields.io/badge/LinkedIn-lightblue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   <a href="https://facebook.com/alekzene/">
     <img src="https://img.shields.io/badge/Facebook-lightblue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
-  <a href="https://twitter.com/alekzene_cs">
+  <a href="https://twitter.com/alekzene">
    <img src="https://img.shields.io/badge/Twitter-lightblue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"&nbsp/>
-</div> 
-
-<br>  
-
-<br>  
-
-<div id="stats" align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=alekzene&theme=nord&exclude_days=Sun&background=FFFFFF">
-
-<div id="random" align="left">
-  
-### about me
-- sophomore computer science student at centro escolar university-makati
-- interested in data science, robotics, astronomy and research
-- hobbies include writing, reading, drawing, and studying math/physics
-- looking forward to open source contributions !
-
-### my tech stack
-- **languages**: python, scheme, java, kotlin, c++, sql, html, css
-- **frameworks**: spring boot, root
-- **miscellaneous**: jupyter notebook, git, bash, unix
