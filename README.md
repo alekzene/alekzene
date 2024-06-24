@@ -29,5 +29,5 @@ i aim to be a master of my craft — at the forefront of innovation. my goal is 
 **languages** : python, java, c++, julia, javascript, php  
 **web frameworks** : spring boot, laravel, django  
 **fields of interest** : ai, robotics, iot, blockchain  
-**misc** : latex, jupyter, pluto, arduino  
+**misc** : latex, jupyter, pluto, arduino, figma  
 **hobbies** : reading, drawing, music, crafts
