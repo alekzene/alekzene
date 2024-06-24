@@ -1,13 +1,11 @@
-<div id="icon" align="center">
-  <img src="https://pbs.twimg.com/media/FhlDBigUYAAeBvB?format=png&name=small" width="100"/>
-</div>
-<div id="header" align="center">
+
+<div id="header">
   <h1>
     hi, i'm alexene.
   </h1>
 </div>
        
-<div id="badges" align="center">
+<div id="badges">
   <a href="https://www.linkedin.com/in/alexene-faith-tomate-9b3180257/">
     <img src="https://img.shields.io/badge/LinkedIn-lightblue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
@@ -22,7 +20,10 @@
 <br>
 <br>
 
-i aim to be a master of my craft and stand at the forefront of innovation. my goal is to work on cutting edge technologies, contribute to meaningful projects, and carry out impactful research studies in the fields of **ai** and **robotics**. i am also passionate about leadership and community-building.
+i aim to be a master of my craft and stand at the forefront of innovation.  
+my goal is to work on cutting edge technologies, contribute to meaningful projects,  
+and carry out impactful research studies in the fields of **ai** and **robotics**.  
+i am also passionate about leadership and community-building. 
 
 <br>
 
