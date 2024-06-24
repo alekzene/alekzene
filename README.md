@@ -22,7 +22,7 @@
 <br>
 <br>
 
-i aim to be a master of my craft — at the forefront of innovation. my goal is to work on cutting edge technologies, contribute to meaningful projects, and carry out impactful research studies in the fields of **ai** and **robotics**. i am also passionate about leadership and community-building.
+i aim to be a master of my craft and stand at the forefront of innovation. my goal is to work on cutting edge technologies, contribute to meaningful projects, and carry out impactful research studies in the fields of **ai** and **robotics**. i am also passionate about leadership and community-building.
 
 <br>
 
