@@ -20,5 +20,3 @@
 </div>
 <br>
 <br>
-
-I aim to be a master of my craft and stand at the forefront of innovation. My goal is to work on cutting edge technologies, contribute to meaningful projects, and carry out impactful research studies in the fields of **AI** and **robotics**. I am also passionate about leadership and community-building.
